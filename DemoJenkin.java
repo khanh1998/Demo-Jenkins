@@ -1,3 +1,5 @@
+import java.util.List;
+
 public class DemoJenkin {
 
     /**
@@ -7,8 +9,7 @@ public class DemoJenkin {
         System.out.println("This is Demo Jenkin");
         System.out.println("Demo Jenkin");
         System.out.println("This demo is make by a handsome boy");
-        List<String> newList;
-        newList.add("This text make by a GOOD BOY :)");
+        System.out.println("This text make by a GOOD BOY :)");
 
     }
     
