@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class DemoJenkin {
 
     /**
@@ -8,7 +10,7 @@ public class DemoJenkin {
         System.out.println("Demo Jenkin");
         System.out.println("This demo is make by a handsome boy");
 
-        List<String> newList;
+        List<String> newList = new ArrayList<>();
         newList.add("This text make by a GOOD BOY :)");
 
     }
