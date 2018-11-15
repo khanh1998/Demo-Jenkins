@@ -10,7 +10,7 @@ public class DemoJenkin {
         System.out.println("Demo Jenkin");
         System.out.println("This demo is make by a handsome boy");
         System.out.println("This text make by a GOOD BOY :)");
-
+        System.out.println("The last test");
     }
     
 }
