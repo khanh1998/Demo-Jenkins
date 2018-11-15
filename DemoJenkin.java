@@ -8,8 +8,9 @@ public class DemoJenkin {
         System.out.println("Demo Jenkin");
         System.out.println("This demo is make by a handsome boy");
 
-        List<String> newList = new ArrayList<>();
-        
+        List<String> newList;
+        newList.add("This text make by a GOOD BOY :)");
+
     }
     
 }
