@@ -9,6 +9,7 @@ public class DemoJenkin {
         System.out.println("This demo is make by a handsome boy");
 
         List<String> newList = new ArrayList<>();
+        
     }
     
 }
